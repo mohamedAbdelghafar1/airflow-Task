@@ -1,0 +1,1 @@
+[2025-10-04T06:24:40.172+0000] {scheduler_job_runner.py:769} ERROR - Executor reports task instance <TaskInstance: dag1.hello manual__2025-09-29T17:32:25.730138+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?
